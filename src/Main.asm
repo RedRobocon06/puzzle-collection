@@ -110,5 +110,5 @@ include "System.asm"
 
 include "Menu/Main.asm"
 include "DrMario/Main.asm"
-//include "PuzzleLeague/Main.asm"
+include "PuzzleLeague/Main.asm"
 include "YCookie/Main.asm"
